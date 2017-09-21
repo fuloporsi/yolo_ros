@@ -1,5 +1,0 @@
-classes= 15
-train  = /home/falafel/darknet/data/RS/train.txt  
-valid  = /home/falafel/darknet/data/RS/test.txt  
-names = data/obj.names  
-backup = /home/falafel/darknet/backup 
