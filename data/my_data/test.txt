@@ -1,0 +1,4 @@
+/home/orsi/Project YOLO/demo2/data/my_data/box1/box4.jpg
+/home/orsi/Project YOLO/demo2/data/my_data/mixed/mixed7.jpg
+/home/orsi/Project YOLO/demo2/data/my_data/mixed/mixed13.jpg
+/home/orsi/Project YOLO/demo2/data/my_data/firee/firee2.jpg

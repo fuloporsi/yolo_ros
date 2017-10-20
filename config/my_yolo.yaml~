@@ -1,0 +1,14 @@
+yolo_model:
+
+  config_file:
+    name: demo.cfg
+  weight_file:
+    name: demo.weights
+  threshold:
+    value: 0.7
+  detection_classes:
+    names:
+      - big_fire_ext
+      - small_fire_ext
+      - chair
+      - box

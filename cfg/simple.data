@@ -1,5 +1,0 @@
-classes= 15
-train  = data/my_data/train_simple.txt  
-valid  = data/my_data/test_simple.txt  
-names = data/obj.names  
-backup = backup 
